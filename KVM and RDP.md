@@ -68,4 +68,12 @@ audio output from a remote computer on their local speakers, among other things.
 
 * It saves time in switching cables and enables users to control multiple computers from one location.
  
+## Difference between KVM and RDP:
 
+* KVM (Keyboard, Video, and Mouse) and RDP (Remote Desktop Protocol) are both technologies that enable users to access and control remote computers, but they have some key differences.
+
+* KVM is primarily used in an office setting, and it allows users to switch between computers using a single keyboard, video, and mouse. 
+
+* On the other hand, RDP is more commonly used in remote technical support because it allows users to access another computer remotely and use its resources, such as its internet connection and printer. 
+
+* KVM also provides fewer features than RDP, but it requires less setup and is easier to use, since a KVM switch connects computers using a single set of cables. 
