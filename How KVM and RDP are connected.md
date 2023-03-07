@@ -7,18 +7,18 @@
 ### KVM:
 
 * You will write the link in the browser
-* Then, you will write the username and IP password.
+* Then, you will write the username and IP password of the remote PC.
 * Press enter and then click on KVM.
 * Whenever we are accesing to other person pc, unless we turn off the mute HD events we will not get the access.
-* http/mupeg you can't be audible
+* In this one option (http/mupeg) you can't be audible.
 * webrtc you should click on this one option to interact.
 
 ### RDP:
 
 * It is a system software (windows feature).
 * Click on the start button on the task bar.
-* Then click on the Remote Desktop option.
-* Enter the username and IP password.
+* Then click on the Remote Desktop option in the Start menu.
+* Enter the username and IP password of the remote PC.
 
 ### How you can save your multiple passwords:
 
@@ -26,5 +26,5 @@
 * Click on password.
 * Whenever you are in a meeting so go directly to password area and click on it.
 * Then go to the account directly where you want to go.
-* Do not show the  it to anyone.
+* Do not show the password to anyone.
 
