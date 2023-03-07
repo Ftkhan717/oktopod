@@ -1,7 +1,8 @@
 ### How KVM And RDP Are Connected to other PC's:
 
-Each team has its own notes and other teams have no access to there oneNote.
-Every team has its assigned notebook and the links for KVM and RDP are written in that.
+* They both allow remote access to other computers over a network. KVM (Keyboard-Video-Mouse) is a hardware device that enables remote control of a computer's keyboard, video, and mouse, while RDP (Remote Desktop Protocol) is a software-based solution that allows remote access to a desktop or server over a network.
+* Each team has its own notes and other teams have no access to there oneNote.
+* Every team has its assigned notebook and the links for KVM and RDP are written in that.
 
 ### KVM:
 
